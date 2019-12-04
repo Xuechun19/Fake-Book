@@ -8,7 +8,7 @@
 # Zhikai Zheng, Lec002, zzheng85@wisc.edu
 # Lingjun Sun, Lec001, lsun89@wisc.edu
 # Kailai Tang, Lec001, ktang38@wisc.edu 
-# Dan Gong, Lec002,
+# Dan Gong, Lec002, bgong22@wisc.edu
 # Xuechun Yang, Lec002, xyang459@wisc.edu
 
  
