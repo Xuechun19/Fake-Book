@@ -1,0 +1,11 @@
+cd "/Users/apple/Lingjun Sun Workspace/HelloJavaFX"
+
+cd src
+
+cd Application
+
+javac *.java
+
+java Main
+
+rm *.class

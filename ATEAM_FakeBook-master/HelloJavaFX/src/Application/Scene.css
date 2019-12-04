@@ -1,0 +1,19 @@
+.root{
+    -fx-background-image: url("download.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 600 400;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: rgba(217,95,148,0.58);
+    -fx-effect: dropshadow( three-pass-box , rgba(217,95,148,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
