@@ -5,11 +5,11 @@
 # Semester: Fall 2019
 # Project name: Social Network
 # Team Members:
-# Zhikai Zheng, Lec002, zzheng85@wisc.edu
-# Lingjun Sun, Lec001, lsun89@wisc.edu
-# Kailai Tang, Lec001, ktang38@wisc.edu 
-# Dan Gong, Lec002, bgong22@wisc.edu
-# Xuechun Yang, Lec002, xyang459@wisc.edu
+# Zhikai Zheng, Lec002, zzheng85@wisc.edu, xteam 80
+# Lingjun Sun, Lec001, lsun89@wisc.edu, xteam ///// TODO
+# Kailai Tang, Lec001, ktang38@wisc.edu, xteam 32 
+# Dan Gong, Lec002, bgong22@wisc.edu, xteam 81
+# Xuechun Yang, Lec002, xyang459@wisc.edu, xteam 97
 
  
 # Which team members were on same xteam together?
